@@ -28,7 +28,7 @@ function pickMe() {
   } else if (colorPicker === "Naruto") {
     document.getElementById("inspo").style.color = "white";
     getDemo.innerHTML =
-      "You found " + colorPicker + " Uzumaki! What's your ninja way? 🍜 🍡 🧡";
+      "You found " + colorPicker + " Uzumaki! What's your ninja way?";
     getDemo.style.fontSize = "20px";
     getDoc.style.backgroundImage =
       "url('https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg')";
